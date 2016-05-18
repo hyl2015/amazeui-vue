@@ -47,8 +47,8 @@
     "stylus-loader": "^1.4.2",
     "vue-hot-reload-api": "^1.2.0",
     "vue-html-loader": "^1.0.0",
-    "vue-loader": "^7.1.5",
-    "vue-router": "^0.7.5",
+    "vue-loader": "^8.3.0",
+    "vue-router": "^0.7.13",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
   },
